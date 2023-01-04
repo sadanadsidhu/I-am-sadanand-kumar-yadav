@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar{
+    display: flex;
+    height: 67px;
+    font-family: 'Kalam', cursive;
+    font-family: 'Pacifico', cursive;
+    cursor: pointer;
+    color: blue;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
