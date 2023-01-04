@@ -1,0 +1,14 @@
+package fundamental;
+
+public class AirthematicOperator {
+
+	public static void main(String[] args) {
+		int a = 5;
+		int b =2;
+		int c = b/(2*a);
+		
+		System.out.println(c);
+
+	}
+
+}
