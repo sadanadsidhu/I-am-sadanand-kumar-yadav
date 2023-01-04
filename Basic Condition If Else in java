@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class BasicConditionIfElse {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int a,b;
+		a= sc.nextInt();
+		b = sc.nextInt();
+		if(a>b) {
+			System.out.println("greater first num");
+		}
+		else {
+			System.out.println("greater second number");
+		}
+		System.out.println("exit this looop");
+}
+
+}
