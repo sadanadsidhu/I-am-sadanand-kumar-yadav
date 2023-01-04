@@ -1,0 +1,30 @@
+package fundamental;
+//import java.util.Scanner;
+public class OddEvenCheck {
+
+	public static void main(String[] args) {
+		/*Scanner s = new Scanner(System.in);
+		int a;
+		a = s.nextInt();
+		int rem = a%2;
+		//boolean result = rem == 0;
+		
+	if(rem == 0){
+			System.out.println(a + "This is a even number");
+		}
+	else {
+		System.out.println(a + "This is a odd number");
+	}
+	System.out.println("outside of the loop");
+	*/
+		
+	        int var1 = 5; 
+	        int var2 = 6;
+	        if ((var2 = 1)==var1) {
+	            System.out.print(var2);
+	        }
+	        else { 
+	            System.out.print(var2 + 1);
+	    }    
+}
+}
